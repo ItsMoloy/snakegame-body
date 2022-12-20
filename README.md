@@ -1,7 +1,7 @@
 # snakegame-body
 #include <graphics.h>
 
-enum DIR {LEFT , UP , RIGHT , DOWN};        // ENUM MAKES THE WORK EASY BY PROVIDING NAMES INSTEAD OF NUMBERS
+enum DIR {LEFT , UP , RIGHT , DOWN};        
 
 ////// POSITION STRUCTURE ////// -- ESPICIALLY TO BE USED IN SNAKE ONLY DUE TO ITS PRESET VALUES
 struct POS
